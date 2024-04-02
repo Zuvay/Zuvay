@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk</h1>
 <h3 align="center">I'm trying to develop myself in the field of software as an self learner</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java**,**Python**,**SQL**
 
 - 📫 How to reach me **farukyavuz2025@gmail.com**
 
